@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Web Scraping Project"
+date: 20198-07-17
+tags: [web scraping, data science, wikipedia, python, beautiful soup]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Web Scraping, Wikipedia, Python, Beautiful Soup"
 mathjax: "true"
 ---
 
