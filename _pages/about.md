@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "https://www.newtechdojo.com/wp-content/uploads/2018/08/Data-Science.png"
+  image: "https://wallpapercave.com/wp/wp4748439.jpg"
 ---
 
 I'm a Data Analyst who has dabbled in various aspects of Data Science over the years. 
