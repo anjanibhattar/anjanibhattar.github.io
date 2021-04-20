@@ -14,7 +14,9 @@ In addition to my graduate degree, I've taken complete advantage of the myriad o
 
 I've worked on Data Collection, Data Cleaning, Exploratory Data Analysis, Feature Engineering and Machine Learning. It's a belief that Data Scientists do not usually like cleaning datasets which accounts to a major part of their responsibilities, but I absolutely love it. While I do enjoy everything Data Science has to offer, data cleaning and wrangling is one of my favorite things-to-do with data. It's your introduction to the data and the various mysteries it holds. It is as important as it is interesting! 
 
-My skillset is diverse since I've worked as a Business Analyst, Data Analyst and Business Intelligence Intern. I'm proficient in transforming and extracting data using SQL, Python (pandas is a godsend!) and good old MS Excel. I have hands on experience working on Tableau for creating visualizations. I understand business requirements and the importance of using analytics to drive growth. I'm acutely aware of how much a great visualization can impact business decisions. And 
+My skillset is diverse since I've worked as a Business Analyst, Data Analyst and Business Intelligence Intern. I'm proficient in transforming and extracting data using SQL, Python (pandas is a godsend!) and good old MS Excel. I have hands on experience working on Tableau for creating visualizations. I understand business requirements and the importance of using analytics to drive growth. I'm acutely aware of how much a great visualization can impact business decisions. 
+
+I'm here to learn and grow every single day. If you can help me in this endeavour, please reach out to me :)
 
 
 
