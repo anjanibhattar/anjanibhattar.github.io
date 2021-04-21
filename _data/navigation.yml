@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: "https://anjanibhattar.github.io"
   - title: "About"
     url: /about/
   - title: "Projects"
