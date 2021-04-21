@@ -1,10 +1,12 @@
 # main links
 main:
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
-  - title: "Data Wrangling Projects"
-    url: /data-wrangling/
-  # - title: "About"
+  - title: "Projects"
+    url: /projects/
+  - title: "Courses & Certifications"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
