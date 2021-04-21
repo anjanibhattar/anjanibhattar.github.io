@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "https://wallpapercave.com/wp/wp4748439.jpg"
+ #image: "https://wallpapercave.com/wp/wp4748439.jpg" 
 ---
-
+# image: "https://wallpapercave.com/wp/wp4748439.jpg"
 I'm a Data Analyst who has dabbled in various aspects of Data Science over the years. 
 
 I started as a Business Analyst working with ton loads of NPI data, fell head-first into the world of Data Science and moved to the US to pursue my Masters in Business Analytics.
